@@ -64,5 +64,6 @@ printf("Square = %ld", x);
 case 6:
 return 0;
 default: printf("\nError");
+//authos Fred, Lilian and Sereya
 }
 }
