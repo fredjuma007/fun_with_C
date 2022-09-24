@@ -25,13 +25,13 @@ scanf("%d", &choice);
 
 switch (choice)
 {
-case 1:
+case 1: //addition
 printf("Enter two numbers: \n");
 scanf("%ld %ld", &num1, &num2);
 x = num1 + num2;
 printf("Sum = %ld", x);
 break;
-case 2:
+case 2: //Subtraction
 printf("Enter two numbers: \n");
 scanf("%ld %ld", &num1, &num2);
 x = num1 - num2;
